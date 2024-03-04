@@ -3,5 +3,13 @@ layout: default
 title: ""
 ---
 
+---
+layout: default
+title: "Home"
+---
 
-Hi, I am <span style="color: blue;"> Gayatri
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
