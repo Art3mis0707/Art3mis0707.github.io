@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Towards Ethical and Cooperative Survival in Minecraft: A Reinforcement Learning Approach"
 layout: post
 ---
 
