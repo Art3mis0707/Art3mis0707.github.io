@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Formal Foundations for AI Policy"
 layout: post
 ---
 
