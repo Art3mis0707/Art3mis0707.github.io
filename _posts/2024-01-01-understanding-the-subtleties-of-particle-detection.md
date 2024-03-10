@@ -1,9 +1,7 @@
 ---
-title: ""
+title: "Understanding the Subtleties of Particle Detection: The "CHota Beams" Exploration"
 layout: post
 ---
-# Understanding the Subtleties of Particle Detection: The "CHota Beams" Exploration
-
 Particle physics stands as a testament to human curiosity, propelling our understanding of the universe through the minute mechanisms of matter. The "CHota Beams" project, embraced by a cadre of bright young intellects, represents this quest for knowledge. This endeavor aims to refine our understanding of particle detection efficacy, particularly within the realms of the esteemed CERN's Beamline for Schools (BL4S) competition.
 Grounded in the knowledge provided by the Beam and Detectors 2021 document, our pursuit commenced with the intricate calibration of the lead crystal calorimeter. We posited that cylindrical calorimeters may outperform their cuboidal counterparts due to a symmetrical design that could potentially amplify measurement accuracy by minimizing energy losses at sharp edges and optimizing direct detection.
 
