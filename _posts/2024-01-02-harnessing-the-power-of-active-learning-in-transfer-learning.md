@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Subtleties of Particle Detection"
+title: "Harnessing the Power of Active Learning in Transfer Learning"
 layout: post
 ---
 In the domain of machine learning, the paradigm of transfer learning has become a cornerstone, allowing for the leveraging of knowledge from one domain to apply it to another, thereby expediting the learning process. However, as promising as transfer learning is, the field continues to evolve, seeking even more efficient ways to adapt these pretrained models to new tasks or datasets. Enter active learning, a technique that could revolutionize the way we fine-tune these models.
