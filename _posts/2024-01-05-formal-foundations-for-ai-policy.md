@@ -1,9 +1,7 @@
 ---
-title: "Formal Foundations for AI Policy"
+title: "Formal Foundations for AI Policy: An Academic Perspective"
 layout: post
 ---
-
-# Formal Foundations for AI Policy: An Academic Perspective
 
 ## Introduction
 
