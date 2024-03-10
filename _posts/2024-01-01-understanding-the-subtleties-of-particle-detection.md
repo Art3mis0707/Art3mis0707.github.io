@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Subtleties of Particle Detection: The "CHota Beams" Exploration"
+title: "Understanding the Subtleties of Particle Detection"
 layout: post
 ---
 
