@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Transfer Learning and Active Learning: A Synergistic Approach for Efficient Model Adaptation"
 layout: post
 ---
 # Transfer Learning and Active Learning: A Synergistic Approach for Efficient Model Adaptation
