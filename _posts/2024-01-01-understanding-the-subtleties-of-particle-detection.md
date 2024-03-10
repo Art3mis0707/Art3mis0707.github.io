@@ -4,7 +4,7 @@ layout: post
 ---
 
 Particle physics stands as a testament to human curiosity, propelling our understanding of the universe through the minute mechanisms of matter. The "CHota Beams" project, embraced by a cadre of bright young intellects, represents this quest for knowledge. This endeavor aims to refine our understanding of particle detection efficacy, particularly within the realms of the esteemed CERN's Beamline for Schools (BL4S) competition.
-
+<!--more-->
 Grounded in the knowledge provided by the Beam and Detectors 2021 document, our pursuit commenced with the intricate calibration of the lead crystal calorimeter. We posited that cylindrical calorimeters may outperform their cuboidal counterparts due to a symmetrical design that could potentially amplify measurement accuracy by minimizing energy losses at sharp edges and optimizing direct detection.
 
 Our experimental design revolved around the detailed scrutiny of calorimeter shapes and the homogeneity of materials. We surmised that crystals, with their inherent long-range order, might exhibit a different interaction pattern compared to the short-range order of amorphous glass. Thus, we anticipated that a comparative study of these two could yield significant insights into the efficiency of these instruments.
