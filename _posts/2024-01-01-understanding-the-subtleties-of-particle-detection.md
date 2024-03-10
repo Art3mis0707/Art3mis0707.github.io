@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Subtleties of Particle Detection: The "CHota Beams" Exploration"
+title: "Understanding the Subtleties of Particle Detection"
 layout: post
 ---
 Particle physics stands as a testament to human curiosity, propelling our understanding of the universe through the minute mechanisms of matter. The "CHota Beams" project, embraced by a cadre of bright young intellects, represents this quest for knowledge. This endeavor aims to refine our understanding of particle detection efficacy, particularly within the realms of the esteemed CERN's Beamline for Schools (BL4S) competition.
