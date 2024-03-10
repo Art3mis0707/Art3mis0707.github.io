@@ -3,7 +3,7 @@ title: "Predictive Modelling and Explainability"
 layout: post
 ---
 
-# Enhancing Predictive Analysis with Large Language Models: A Case Study on the Titanic Dataset
+# Enhancing Predictive Analysis and Explainability with Large Language Models: A Case Study on the Titanic Dataset
 ## Introduction
 The quest for superior predictive models in data science leads us to explore innovative approaches that transcend traditional machine learning algorithms. In this vein, the application of Large Language Models (LLMs) like GPT-4 presents a groundbreaking avenue. This blog post delves into a case study involving the renowned "Titanic Dataset," highlighting the potential of LLMs in predictive analytics and proposing strategies for optimization.
 
