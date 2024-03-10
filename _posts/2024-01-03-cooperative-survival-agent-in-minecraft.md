@@ -4,7 +4,7 @@ layout: post
 ---
 
 # Towards Ethical and Cooperative Survival in Minecraft: A Reinforcement Learning Approach
-<span style="color: #00d4ff; display: inline;">This is an introductory post to share the aim of the project. Further updates (technical/documentation) regrading the project will posted soon!</span>
+<span style="color: #00d4ff; display: inline;">This introductory post outlines the objectives of my project, setting the stage for what's to come. Stay tuned for further updates, including technical details and documentation, as I progress!</span>
 ### Introduction
 In the dynamic world of Minecraft, the introduction of a Cooperative Survival Agent represents a significant leap towards a more immersive and interactive gameplay experience. Developed using Python and OpenAI Gym, this project focuses on creating an AI that collaboratively gathers resources, constructs shelters, and defends against the myriad threats of Minecraft's survival mode. Balancing the fine line between enhancing gameplay and respecting player autonomy, this agent is designed to promote cooperative strategies and ethical engagement within the game.
 
