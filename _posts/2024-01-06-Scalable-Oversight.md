@@ -5,6 +5,8 @@ layout: post
 ## Leveraging Existing Data to Create Useful Resources for Scalable Oversight Research
 <span style="color: #00d4ff; display: inline;">This introductory post outlines the objectives of my project, setting the stage for what's to come. Stay tuned for further updates, including technical details and documentation, as I progress!</span>
 
+Supervisor : [Dr. Gabriel Recchia](http://www.twonewthings.com/gabrielrecchia/)
+
 ### Introduction
 As AI systems achieve and surpass human capabilities in various domains, the complexity of ensuring their alignment with human values and intentions intensifies. The dichotomy between the potential benefits of AI and the challenges in overseeing such advanced systems forms the foundation of this project. It seeks to investigate methods that enhance our capacity to manage and trust AI systems through innovative oversight and evaluation strategies.
 
