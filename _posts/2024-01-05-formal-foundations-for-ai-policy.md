@@ -3,6 +3,8 @@ title: "Formal Foundations for AI Policy: An Academic Perspective"
 layout: post
 ---
 
+Supervisor : [Dr. Virgina Dignum](https://en.wikipedia.org/wiki/Virginia_Dignum)
+
 ## Introduction
 
 The advent of artificial intelligence (AI) has heralded transformative changes across a multitude of domains, ranging from healthcare and transportation to education and entertainment. As AI technologies become increasingly integrated into the fabric of daily life, the imperative for robust, informed, and dynamic policy frameworks to govern their development and deployment has never been more pronounced. The project under consideration, affiliated with Umeå University, seeks to explore the formal foundations for AI policy, focusing on a variety of perspectives including conceptual, methodologic, formal, and computational approaches. These foundations are crucial for the operationalization, evaluation, and monitoring of AI principles and guidelines. This blog post aims to elucidate the scope and significance of formal foundations for AI policy, drawing attention to specific areas such as AI application safety, the impact of Large Language Models (LLMs) on scientific research, and the socio-economic dimensions of generative AI policy directions.
