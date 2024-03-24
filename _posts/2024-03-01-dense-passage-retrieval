@@ -1,8 +1,11 @@
+---
+title: "Dense Passage Retrieval for Efficient Information Retrieval"
+layout: post
+---
+
 <span style="color: #00d4ff; display: inline;">This introductory post outlines the objectives of my project, setting the stage for what's to come. Stay tuned for further updates, including technical details and documentation, as I progress!</span>
 
 Supervisor : [Dr. Kushal Shah](https://www.linkedin.com/in/kushal-shah-95b9a3b/?originalSubdomain=in) 
-
-# Dense Passage Retrieval for Efficient Information Retrieval
 
 In the realm of information retrieval, one of the longstanding challenges has been the ability to quickly and accurately retrieve relevant information from large document collections. Traditional methods, such as TF-IDF or BM25, while effective in many scenarios, often struggle to capture the contextual and semantic nuances of natural language queries. This is where Dense Passage Retrieval (DPR) emerges as a promising solution, leveraging the power of deep learning to enhance the effectiveness of information retrieval systems.
 
